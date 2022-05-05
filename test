@@ -1,0 +1,627 @@
+<html class="DocumentsLegaux LD countryFR ua-windows_nt ua-windows_nt-10 ua-windows_nt-10-0 ua-chrome ua-chrome-100 ua-chrome-100-0 ua-chrome-100-0-4896 ua-chrome-100-0-4896-127 ua-desktop ua-desktop-windows ua-webkit ua-webkit-537 ua-webkit-537-36 js device-personal-computer t-chrome t-chrome100 lg sm-md-lg md-lg md-lg-xl lg-xl" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta charset="utf-8">
+<meta id="viewportSlate" name="viewport" content="">
+<link rel="preconnect" href="https://cdn.appdynamics.com/">
+<script async="" src="https://cdn.appdynamics.com/adrum-ext.6ed9e8be6594938a3179b249648f60c0.js"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-878912275"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window['adrum-start-time'] = new Date().getTime();</script>
+<script type="text/javascript" src="/common/scripts/adrum-WEB9.js?v=6" async=""></script>
+<link href="//www.documentslegaux.fr/common/styles/lds5.0-frozen-french.css?v=138" type="text/css" rel="stylesheet" media="screen,print">
+<script type="text/javascript">window._deviceType = "Personal computer";</script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/siteConfig.php.js?v=5"></script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/utilities.js?v=1"></script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/responsive.js?v=1"></script>
+<script type="text/javascript" src="/common/scripts/polyfills/promise.min.js?v=3"></script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/m.js?v=465"></script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/maintenanceWarningSettings.js?v=17"></script>
+<script type="text/javascript" src="//www.documentslegaux.fr/common/scripts/yanswersp.js?v=32"></script>
+<title>Modèle gratuit de politique de confidentialité d'un site web</title>
+<!--pw4-->
+<meta name="ZOOMWORDS" content="politique de confidentialité, politique, confidentialité, politique de confidentialité d'un site web, déclaration de confidentialité, déclaration, déclaration de confidentialité d'un site web, collecte de données, protection des données, politique sur les témoins, conservation des données, utilisation des données, données utilisateur, cookies, données personnelles">
+<meta name="description" content="Une politique de confidentialité d'un site web est un document qui fournit des informations sur toutes les façons dont un site web peut recueillir, utiliser et conserver les données d’un utilisateur.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="format-detection" content="telephone=no">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<link href="//www.documentslegaux.fr/common/styles/ldpsnp.css?v=19" type="text/css" rel="stylesheet" media="print">
+<style type="text/css">
+.iconFontFamily{display:none}
+</style><!--ZOOMSTOP--><script type="text/javascript">
+<!--
+window.languageCode="fr_FR";
+var pageResponseData = {};
+window.SID = '476B1A73D9684B89B6953225FB99068C';
+window.UID = null;
+window.LID = '76d1ce482c49af9403bf0874f0aba7a9';
+function isKeyCode(event, keyCode) {
+return ((event.which && event.which == keyCode) || (event.keyCode && event.keyCode == keyCode));
+}
+vh.S("cRdoTemplates", "", null, null, false);
+
+                    function togglePrintHelp(showHideLink) {
+                        var printhelpimg = document.getElementById("print_help_img");
+                        var printhelpp = document.getElementById("print_help_p");
+                        var date = new Date();
+                        date.setTime(date.getTime() + (30*24*60*60*1000));
+                        if(!printhelpimg.style.display || printhelpimg.style.display == "block") {
+                            printhelpimg.style.display = "none";
+                            printhelpp.style.display = "none";
+                            showHideLink.innerHTML = "Montre Aide vv";
+                            document.cookie = "ShowPrintHelp=0; expires="+date.toGMTString()+"; path=/";
+                        }
+                        else {
+                            printhelpimg.style.display = "block";
+                            printhelpp.style.display = "block";
+                            showHideLink.innerHTML = "Cache Aide ^^";
+                            document.cookie = "ShowPrintHelp=1; expires="+date.toGMTString()+"; path=/";
+                        }
+                    }
+                    
+ajaxMan='ctl00_ctl03';
+var _previewDialogID="ctl00_cPreviewDialog"
+var PC='PRIVACYQC';var PU='politique-de-confidentialite-d-un-site-web';var additionalPrintCSS="";var outputTemplate='';var wdid=141357532;WebuserDataInfo.id=141357532;WebuserDataInfo.shared=false;WebuserDataInfo.Events=[{name:'viewed_preview', time:new Date('2022-05-05 11:35:42')},{name:'change_answers', time:new Date('2022-05-05 11:35:42')},];var SID='476B1A73D9684B89B6953225FB99068C';var dbcountry='FR';var dbregion='IF';var VS='ver=yudox2&RBtermsPrivacy=generalConditions&websiteType=e-commerce&otherSiteType=&domainName=www.test.com&RBsiteOwnerDetails=group&ownerName=Test+test+SARL&siteContactNumber=06+78+79+73+78&sitecontactEmail=service%40feeder.com&siteContactAddress=52+rue+TEST%2c+75015%2c+Paris&YNautoCollect=no&YNnonAutoCollect=yes&YNname=true&YNage=false&YNdob=false&YNgender=false&YNemail=true&YNnumber=true&YNaddress=false&YNbanking=true&YNautofill=false&YNother2=false&numotherNonAutoData:Num=1&1:otherNonAutoData=&numCollectionMethods:Num=1&1:collectionMethods=Enregistrement+d%27un+compte+%26+Paiement&numNonAutoUse:Num=1&1:nonAutoUse=Fonctionnement&YNthirdParties=no&numThirdPartiesNames:Num=1&1:TPnames=&numThirdPartyUses:Num=1&1:TPUse=&RBretention=duration&autoDataDuration=Les+donn%c3%a9es+sensibles+ne+sont+gard%c3%a9s+que+pendant+le+temps+d%27ex%c3%a9cution+de+la+programmation+automatique+des+requ%c3%aates&securityDescription=&YNintlDataTransfers=no&internationalTransfer=&YNageMinimum=no&ageMinimum=0&YNchildContent=no&numchildConsent:Num=1&1:childConsent=&POname=Tester+TEST&contactNumber=01+23+45+67+89&contactEmail=Test%40gmail.com&contactAddress=52+rue+Test%2c+75015%2c+Paris&YNcookiePolicy=no&YNadditionalClauses=no&additionalClauses:Num=1&additionalClauses:1:Clause=&YNeffectDate=no&effectDate=2022-05-05&';var tempstring=VS;var supportsMobile=false;var enableGooglePlaces=false;var fluidLayout=false;var dcsVersion=3.17;qnh.SkipPreview=false;qnh.NavigateGroupsClient=false;qnh.NavigateGroupsClientLandingPage=false;qnh.PreloadGroups=false;qnh.PreviewRequiresHttps=false;vh.S('__IsSignedIn', false);vh.S('__HasSavedAnswers', true);vh.S('__HasSavedAnswersSpecific', true);vh.S('__CurrentSection', -1);vh.S('__CurrentQuestionGroup', 1);vh.S('__CurrentSectionID', "QSwebsiteDetails");vh.S('__CurrentQuestionGroupID', "QGwebsiteType");vh.S('__CountryCode', "FR");vh.S('__RegionCode', "IF");vh.S('__CurrentAnswersEmpty', false);vh.S('__CurrentQuestionGroupName', "&#192; quel type de site web s’adresse cette politique de confidentialit&#233; ?");vh.S('__IsPhone', false);vh.S('__IsFirstVisibleQuestionGroup', true);vh.S('__IsLastVisibleQuestionGroup', false);vh.S('__ScreenSize', "lg");vh.S('__IsDocumentOwner', true);
+window.startUpComplete=false;
+function startUp(){
+var tempFunc = function(){vh.S("cRdoTemplates", $('input[name="ctl00$Content$ctlContract$cRdoTemplates"]').filter(':checked').val(), 'click');};$('input[name="ctl00$Content$ctlContract$cRdoTemplates"]').on('click', tempFunc);tempFunc();
+TooltipHandler.Register('.controls .new', {content:function(){ return "Pour commencer un nouveau document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .open', {content:function(){ return "Pour ouvrir un document existant, vous devez choisir un licence.";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .save', {content:function(){ return "Pour enregistrer ce document, vous devez d’abord sélectionner une licence.<br><br>Avec une licence, vous pouvez enregistrer dans les formats HTML, PDF et Microsoft Word. Vous pouvez enregistrer sur DocumentsLégaux ou télécharger sur votre ordinateur.";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .print', {content:function(){ return "Pour imprimez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .downPDF', {content:function(){ return "Pour téléchargez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .down', {content:function(){ return "Pour téléchargez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .shareExpand', {content:function(){ return "Pour partagez votre document avec autres, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .editor', {content:function(){ return "Pour utilisez le DocumentsLégaux Éditeur, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});
+vh.R('__HasSavedAnswersSpecific', 'hasSavedAnswersClass', function(){$('form').removeClass('hasSavedAnswersSpecific noSavedAnswersSpecific').addClass(vh.G('__HasSavedAnswersSpecific') ? 'hasSavedAnswersSpecific' : 'noSavedAnswersSpecific'); }, 'change', false);
+rE(window,"load",function(){$('form').removeClass('hasSavedAnswersSpecific noSavedAnswersSpecific').addClass(vh.G('__HasSavedAnswersSpecific') ? 'hasSavedAnswersSpecific' : 'noSavedAnswersSpecific'); });
+
+TooltipHandler.Register('.controls .new', {content:function(){ return "Pour commencer un nouveau document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .open', {content:function(){ return "Pour ouvrir un document existant, vous devez choisir un licence.";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .save', {content:function(){ return "Pour enregistrer ce document, vous devez d’abord sélectionner une licence.<br><br>Avec une licence, vous pouvez enregistrer dans les formats HTML, PDF et Microsoft Word. Vous pouvez enregistrer sur DocumentsLégaux ou télécharger sur votre ordinateur.";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .print', {content:function(){ return "Pour imprimez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .downPDF', {content:function(){ return "Pour téléchargez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .down', {content:function(){ return "Pour téléchargez votre document, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .shareExpand', {content:function(){ return "Pour partagez votre document avec autres, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});TooltipHandler.Register('.controls .editor', {content:function(){ return "Pour utilisez le DocumentsLégaux Éditeur, vous devez choisir un licence";}, position:{my:"left bottom", at:"right top"}});
+Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+qnh.PageID='__Page';
+vh.R('__CurrentQuestionGroup', 'stickySocialShareClass', function(){$('form').removeClass('stickySocialShare').addClass(false? 'stickySocialShare' : ''); }, 'change', false);
+rE(window,"load",function(){$('form').removeClass('stickySocialShare').addClass(false? 'stickySocialShare' : ''); });
+vh.R('__CurrentQuestionGroup', 'firstPageClass', function(){$('form').removeClass('firstPage notFirstPage').addClass(qnh.GetPreviousPosition() < 0 ? 'firstPage' : 'notFirstPage'); qnh.SetFAQContentClass();$('.currentQuestionGroupName').html(vh.G('__CurrentQuestionGroupName'));}, 'change', false);
+rE(window,"load",function(){$('form').removeClass('firstPage notFirstPage').addClass(qnh.GetPreviousPosition() < 0 ? 'firstPage' : 'notFirstPage'); qnh.SetFAQContentClass();$('.currentQuestionGroupName').html(vh.G('__CurrentQuestionGroupName'));});
+function ctl00_Content_ctrlSectionMenuTopVis() {sD("ctl00_Content_ctrlSectionMenuTop",(vh.G('__HasSavedAnswersSpecific')&&true), "block");}
+vh.R('__HasSavedAnswersSpecific', 'vis', ctl00_Content_ctrlSectionMenuTopVis, 'change', false);
+
+rE(window,"load",ctl00_Content_ctrlSectionMenuTopVis);
+vh.UA(true);
+$(window).trigger("postStartUp");
+window.startUpComplete=true;
+}
+$(function(){Sys.Application.add_init(startUp);});
+
+$(function(){
+Sys.UI.DomEvent._oldRemoveHandler=Sys.UI.DomEvent._removeHandler;Sys.UI.DomEvent._removeHandler=function(a,e,f){if(a==null)return;return Sys.UI.DomEvent._oldRemoveHandler(a,e,f);};
+commonScripts._oldRemoveHandler=commonScripts._removeHandler;commonScripts._removeHandler=function(a,e,f){if(a==null)return;return commonScripts._oldRemoveHandler(a,e,f);};
+});
+
+pageResponseData.cookies = {};
+//-->
+</script><!--ZOOMRESTART--><!--ZOOMSTOP--><script type="text/javascript" src="/common/scripts/chooseFileRedirect.js?v=3"></script><!--ZOOMRESTART-->
+
+<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/878912275/?random=1651772143622&amp;cv=9&amp;fst=1651772143622&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=18&amp;u_tz=120&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2oa540&amp;sendb=1&amp;ig=1&amp;data=event%3Dpage_view%3Bprodid%3DPRIVACYQC%3Bpagetype%3DPreview%3Bpname%3DPRIVACYQC%20Preview%3Bdynx_itemid%3DPRIVACYQC%3Bdynx_itemid2%3D%3Bdynx_pagetype%3DPreview&amp;frm=0&amp;url=https%3A%2F%2Fwww.documentslegaux.fr%2Fcommerce%2Fpolitique-de-confidentialite-d-un-site-web%2Fpreview.aspx%3Fwebuser_data_id%3D141357532&amp;ref=https%3A%2F%2Fwww.documentslegaux.fr%2Fcommerce%2Fpolitique-de-confidentialite-d-un-site-web%2F%3Fs%3DQSfinalDetails%26g%3DQGeffectiveDate%26webuser_data_id%3D141357532&amp;tiba=Mod%C3%A8le%20gratuit%20de%20politique%20de%20confidentialit%C3%A9%20d'un%20site%20web&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+<body class="contentLoaded">
+    <form method="post" action="/commerce/politique-de-confidentialite-d-un-site-web/preview.aspx?webuser_data_id=141357532" id="aspnetForm" autocomplete="off" novalidate="novalidate" class="noNav splitGroups previewPage previewsimple2 standardPage Slate bannerSimpleV2 footerSlateFluid unlicensed hasSavedAnswersSpecific firstPage noFAQContent">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl00_ctl02_TSM" id="ctl00_ctl02_TSM" value=";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:9ddf364d-d65d-4f01-a69e-8b015049e026:ea597d4b:b25378d2;System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a:en-US:477e9083-3fd6-4884-be39-eb723ec60178:d75a303e;Telerik.Web.UI, Version=2019.1.115.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:755ea2af-1e38-433e-a666-3b60b54e73cf:16e4e7cd:ed16cbdc">
+<input type="hidden" name="ctl00_ctl04_TSSM" id="ctl00_ctl04_TSSM" value="">
+<input type="hidden" name="__Seen" id="__Seen" value="QGwebsiteType">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="locCode" id="locCode" value="FRIF">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI4NTU1MDAxMw8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAgICEBYGHgxhdXRvY29tcGxldGUFA29mZh4Kbm92YWxpZGF0ZQUKbm92YWxpZGF0ZR4FY2xhc3MFmgEgbm9OYXYgc3BsaXRHcm91cHMgcHJldmlld1BhZ2UgcHJldmlld3NpbXBsZTIgc3RhbmRhcmRQYWdlIFNsYXRlIGZpcnN0UGFnZSBub0ZBUUNvbnRlbnQgYmFubmVyU2ltcGxlVjIgZm9vdGVyU2xhdGVGbHVpZCB1bmxpY2Vuc2VkIGhhc1NhdmVkQW5zd2Vyc1NwZWNpZmljZBYEAgEPZBYEAgMPZBYCAgcPDxYEHhBJblZpc2libGVTZWN0aW9uZx4OSW5WaXNpYmxlR3JvdXBnZBYCBQljTm9SZW5kZXIPZBYEAgEPDxYGHg1TZWxlY3RlZFZhbHVlZB8EZx8FZ2RkAgMPDxYEHwRnHwVnZBYCBQljTm9SZW5kZXIPZBYCAgEPDxYEHwRnHwVnZBYCBQljTm9SZW5kZXIPZBYCAgEPDxYEHwRnHwVnZGQCBQ9kFgICAQ8WAh4HVmlzaWJsZWgWAgICD2QWBGYPZBYCAgEPDxYEHwRnHwVnZGQCAQ8WAh8HaGQCBw9kFgJmDw8WBB8EZx8FZ2RkZFRfZUYg0Sf4kkS+sdIZ1bCoCFko">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/contracts/DCSMain3.17/WebResource.axd?d=s0cwJW345AK-3nU7GyitIc3L9X23zOlyIokeTClnjXXg0MAjLfn7LTaF6ZHK5hnl_3Y3vXqbHKPU5lK3sNDHJ2HoPMg1&amp;t=637814401746327080" type="text/javascript"></script>
+
+
+<script src="/contracts/DCSMain3.17/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ctl02_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ddf364d-d65d-4f01-a69e-8b015049e026%3aea597d4b%3ab25378d2%3bSystem.Web%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db03f5f7f11d50a3a%3aen-US%3a477e9083-3fd6-4884-be39-eb723ec60178%3ad75a303e%3bTelerik.Web.UI%2c+Version%3d2019.1.115.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a755ea2af-1e38-433e-a666-3b60b54e73cf%3a16e4e7cd%3aed16cbdc" type="text/javascript"></script>
+        <div id="wrapper">
+            <div id="ctl00_divHeaderSec">
+                <!--ZOOMSTOP-->
+                
+<div id="banner"> 
+<span id="bannerxml"></span>   
+<div id="logo_search"> 
+<div id="logo_link">
+<a href="/"></a></div> </div> 
+<div class="desktopOnly"> 
+<div class="SignInOut LAWDEPOT"> 
+<div class="SignInOutRow"> 
+<div class="bannerSupportNumber">
+<span>
+<a href="tel:" rel="nofollow"></a></span></div> 
+<div class="help_top"> 
+<div class="bannerHoverMenu help hasIcons">
+<span class="helphover-button">Aide</span> 
+<div class="bannerHoverInner "> 
+<ul> 
+<li class="helpCentre"> 
+<a href="/aide/" onclick="window.open(this.href);return false;"> 
+<span class="icon">
+<!-- --></span> 
+<span class="text">Centre d'aide</span> </a> </li> </ul> </div> </div> </div> 
+<div class="countryNav"> 
+<div class="select_country"> 
+<span class="countryhover-button"> 
+<a class="countryNavLink footerCurrentCountry currentCountry flag_FR"></a> </span> 
+<div class="countryNavInner"> 
+<ul> 
+<li>
+<a href="https://www.lawdepot.com/?loc=US" class="countryNavLink flag_US">
+<span>États-Unis</span></a></li> 
+<li>
+<a href="https://www.lawdepot.ca/contracts/politique-de-confidentialite-d-un-site-web/?loc=CA" class="countryNavLink flag_CA">
+<span>Canada</span></a></li> 
+<li>
+<a href="https://www.lawdepot.co.uk/" class="countryNavLink flag_GB">
+<span>Royaume-Uni</span></a></li> 
+<li>
+<a href="https://www.lawdepot.com/?loc=AU" class="countryNavLink flag_AU">
+<span>Australie</span></a></li> 
+<li>
+<a href="javascript:void(0)" class="countryNavLink" onclick="showInlineFooterDialog('Sélectionner votre pays', '/countrySelector.html', undefined, undefined, 'countrySelectorDialog', undefined, undefined, undefined, ($('.device-smartphone').length > 0 ? {effect:'slide', direction:'left', duration:500} : undefined));">Autres pays</a></li> </ul> </div> </div> </div> 
+<div class="signIn_menu"> 
+<div class="cfa"> 
+<a class="signIn customButton" href="/SignIn/?page=create">Créer un compte gratuit</a> </div> 
+<div class="si"> 
+<a class="signIn customButton" href="/SignIn/">Accéder à votre compte</a> </div> </div> </div> </div> </div> 
+<div class="mobileOnly"> 
+<a id="bannerHelp" href="/aide/" target="_blank"> Aide </a> 
+<div id="bannerSearch" onclick="toggleBannerSearch();"></div> 
+<div id="bannerNav" onclick="toggleBannerNav();"> 
+<span class="mobile-menuHamBurger"> 
+<span class="line-1"></span> 
+<span class="line-2"></span> 
+<span class="line-3"></span> </span> </div> 
+<div id="bannerSearchWrapper"> 
+<div id="header_search"> 
+<h2 class="search_title">Que recherchez-vous ? </h2> 
+<a href="javascript:void(0)" onclick="toggleBannerSearch();" class="search_close_button"></a> 
+<div id="input_wrapper_search"> 
+<input type="text" autocapitalize="off" id="txtSearchMobile" class="search_input init ui-autocomplete-input" value="Taper vos recherches" autocomplete="off"> 
+<a id="btnSearch" class="search_submit"></a> </div> </div> </div> 
+<div id="bannerNavWrapper"> 
+<div id="bannerNavContents"> 
+<div class="signIn_menu "> 
+<div class="cfa"> 
+<a class="signIn customButton" href="/SignIn/?page=create">Créer un compte gratuit</a> </div> 
+<div class="si"> 
+<a class="signIn customButton" href="/SignIn/">Accéder à votre compte</a> </div> </div> 
+<ul id="mobileContractMenu" class="ui-accordion ui-widget ui-helper-reset" role="tablist"> 
+<li class="FAMLDL hideCountry">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-5" aria-controls="ui-id-6" aria-selected="false" aria-expanded="false" tabindex="0">Famille</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-6" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+<li>
+<a href="https://www.documentslegaux.fr/famille/accord-de-separation/">Accord de séparation</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/contracts/groups/">Plus &gt;&gt;</a></li></ul></li>
+<li class="FINADL hideCountry">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-7" aria-controls="ui-id-8" aria-selected="false" aria-expanded="false" tabindex="-1">Finance</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-8" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true" style="display: none;">
+<li>
+<a href="https://www.documentslegaux.fr/commerce/reconnaissance-de-dette/">Reconnaissance de dette</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/commerce/lettre-de-mise-en-demeure/">Lettre de mise en demeure</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/contracts/groups/">Plus &gt;&gt;</a></li></ul></li>
+<li class="LCBUS">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-9" aria-controls="ui-id-10" aria-selected="false" aria-expanded="false" tabindex="-1">Commerce</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-10" aria-labelledby="ui-id-9" role="tabpanel" aria-hidden="true" style="display: none;">
+<li>
+<a href="https://www.documentslegaux.fr/commerce/acte-de-vente/">Acte de vente</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/commerce/prestation-de-service/">Contrat de prestation de service</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/commerce/contrat-de-mission-de-consultant/">Contrat de mission de consultant</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/commerce/EURL/">Statuts d'une EURL</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/commerce/contrat-de-prestataire-independant/">Contrat de prestataire indépendant</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/contracts/groups/">Plus &gt;&gt;</a></li></ul></li>
+<li class="LCREAL">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-11" aria-controls="ui-id-12" aria-selected="false" aria-expanded="false" tabindex="-1">Immobilier</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-12" aria-labelledby="ui-id-11" role="tabpanel" aria-hidden="true" style="display: none;">
+<li>
+<a href="https://www.documentslegaux.fr/immobilier/contrat-de-location/">Contrat de location</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/immobilier/bail-commercial/">Bail commercial</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/immobilier/pacte-de-colocation/">Pacte de colocation</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/contracts/groups/">Plus &gt;&gt;</a></li></ul></li>
+<li class="PATRDL">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-13" aria-controls="ui-id-14" aria-selected="false" aria-expanded="false" tabindex="-1">Patrimoine</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-14" aria-labelledby="ui-id-13" role="tabpanel" aria-hidden="true" style="display: none;">
+<li>
+<a href="https://www.documentslegaux.fr/famille/mandat-de-protection/">Mandat de protection future</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/famille/procuration-mandat/">Procuration (Mandat)</a></li>
+<li>
+<a href="https://www.documentslegaux.fr/contracts/groups/">Plus &gt;&gt;</a></li></ul></li>
+<li class="ALLRD">
+<a class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default" role="tab" id="ui-id-15" aria-controls="ui-id-16" aria-selected="false" aria-expanded="false" tabindex="-1">Tout</a>
+<ul class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-16" aria-labelledby="ui-id-15" role="tabpanel" aria-hidden="true" style="display: none;"></ul></li> </ul> 
+<a id="bannerNavAll" href="/contracts/groups/">Tous  les documents DocumentsLégaux</a> </div> </div> </div>   </div>  
+                <!--ZOOMRESTART-->
+                
+    
+
+            </div>
+            <div id="content">
+                
+    <div class="headerPreviewWrapper">
+        <div class="headerSimplePreview"><div id="ctl00_Content_ctrlQuestions_ctl101_ctl04" class="progressIntro  qd ssectionWrapper">
+<div id="ctl00_Content_ctrlQuestions_ctl101_ctl04_ctl01" class="  progressBarWrapper qd sprogress">
+<img class="shield-image" src="//www.documentslegaux.fr/images/slate/shield.png">
+<progress value="100" max="10" id="ctl00_Content_ctrlQuestions_ctl101_ctl04_ctl01">
+<div class="progressBar">
+<span></span>
+</div>
+</progress>
+</div>
+</div>
+</div>
+        <!--ZOOMSTOP--><div id="ctl00_Content_ctrlSectionMenuTop" class="sectionMenuTopWrapper">
+	<ol class="sectionMenuTop">
+		<li class=" QSwebsiteDetails nn unseen"><a href="/commerce/politique-de-confidentialite-d-un-site-web/?webuser_data_id=141357532&amp;s=QSwebsiteDetails&amp;" onclick="qnh.GotoQuestions('QSwebsiteDetails');return false;">Le site</a></li><li class=" QSdataCollection nn unseen"><a href="/commerce/politique-de-confidentialite-d-un-site-web/?webuser_data_id=141357532&amp;s=QSdataCollection&amp;" onclick="qnh.GotoQuestions('QSdataCollection');return false;">Les données</a></li><li class=" QScookies nn unseen"><a href="/commerce/politique-de-confidentialite-d-un-site-web/?webuser_data_id=141357532&amp;s=QScookies&amp;" onclick="qnh.GotoQuestions('QScookies');return false;">Cookies</a></li><li class=" QSfinalDetails nn unseen"><a href="/commerce/politique-de-confidentialite-d-un-site-web/?webuser_data_id=141357532&amp;s=QSfinalDetails&amp;" onclick="qnh.GotoQuestions('QSfinalDetails');return false;">Divers</a></li><li class=" FinishTab selected unseen"><a onclick="if(cV(true, false)){AjaxWait(true);qnh.GotoPreview();}return false;">Imprimer/Télécharger</a></li>
+	</ol>
+</div><!--ZOOMSTART-->
+    </div>
+    <div class="selLicense">
+	<div class="selLicenseMessage">
+		Pour télécharger et imprimer votre Politique de confidentialité d'un site web, vous devez sélectionner un abonnement gratuit ou payant.
+	</div><a onclick="submittingfunc();return false;" class="largeProceedButton">Choisir un abonnement<span class="rightArrow"></span></a>
+</div>
+    <div class="contractPreviewWrapper disabled">
+	<div class="contractPreview">
+		<div class="previewHead">
+			<div class="titleBar">
+				<span class="webuserDataName" style="white-space: pre-wrap;">Politique de confidentialité d'un site web</span>
+			</div><div class="updated">
+				<span></span>Prevue mise à jour
+			</div><div id="ctl00_Content_ctlContract_cCalloutBannerContainer" class=" qd    CalloutContainer ">
+
+			</div>
+		</div><div class="mobileOnly previewFormatWarning">
+			Cet aperçu du document est formaté pour s'adapter à votre appareil mobile. Le formatage changera si le document est imprimé ou affiché sur ordinateur.
+		</div><div id="contract" class="DCS">
+			<div id="outputPage">
+				<div data-exp="simple2" class="outputVersion1">
+					<div style="background:url('//www.documentslegaux.fr/common/images//draft-fr.png') repeat-y center top/contain #fff;"><div class=" header">
+	<span style="line-height:18.0pt;" class="content">Politique de confidentialité d'un site web</span>
+	<span style="line-height:18.0pt;" class="pageNumbers">Page <span class="currentPageNum"></span> de <span class="totalPageNum"></span></span></div><div class=" footer"></div><div class=" firstHeader"></div><div class=" firstFooter">
+	<span style="line-height:18.0pt;" class="pageNumbers">Page <span class="currentPageNum"></span> de <span class="totalPageNum"></span></span></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Center;"><br><br><span style="font-style:normal;font-weight:bold;">POLITIQUE DE CONFIDENTIALITÉ</span><br><br><br><span style="font-style:normal;font-weight:bold;">www.test.com</span><br>Test test SARL<br><br>Type de site&nbsp;: e-commerce
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Le but de cette politique de confidentialité </span><br><br>Le but de cette politique de confidentialité est d'informer les utilisateurs de notre site des données personnelles que nous recueillerons ainsi que les informations suivantes, le cas échéant :
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>Les données personnelles que nous recueillerons</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>L’utilisation des données recueillies</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>Qui a accès aux données recueillies</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="4"><span>Les droits des utilisateurs du site</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="5"><span>La politique de cookies du site</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Cette politique de confidentialité fonctionne parallèlement aux conditions générales d’utilisation de notre site.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Lois applicables</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Conformément au <span style="font-style:italic;font-weight:normal;">Règlement général sur la protection des données</span> (RGPD), cette politique de confidentialité est conforme aux règlements suivants.<br><br>Les données à caractère personnel doivent être :
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>traitées de manière licite, loyale et transparente au regard de la personne concernée (licéité, loyauté, transparence) ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées ultérieurement d'une manière incompatible avec ces finalités; le traitement ultérieur à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques n'est pas considéré, conformément à l'article 89, paragraphe 1, comme incompatible avec les finalités initiales (limitation des finalités) ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées (minimisation des données) ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="4"><span>exactes et, si nécessaire, tenues à jour; toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder (exactitude) ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="5"><span>conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées; les données à caractère personnel peuvent être conservées pour des durées plus longues dans la mesure où elles seront traitées exclusivement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l'article 89, paragraphe 1, pour autant que soient mises en œuvre les mesures techniques et organisationnelles appropriées requises par le règlement afin de garantir les droits et libertés de la personne concernée (limitation de la conservation) ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="6"><span>traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées (intégrité et confidentialité).<br></span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Le traitement n'est licite que si, et dans la mesure où, au moins une des conditions suivantes est remplie :
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>la personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à l'exécution de mesures précontractuelles prises à la demande de celle-ci ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="4"><span>le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne physique ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="5"><span>le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement ;</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="6"><span>le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant.</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Pour les résidents de l’État de Californie, cette politique de confidentialité vise à se conformer à la <span style="font-style:italic;font-weight:normal;">California Consumer Privacy Act (CCPA)</span>. S’il y a des incohérences entre ce document et la <span style="font-style:italic;font-weight:normal;">CCPA</span>, la législation de l’État s’appliquera. Si nous constatons des incohérences, nous modifierons notre politique pour nous conformer à la loi pertinente.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Consentement</span><br><br>Les utilisateurs conviennent qu’en utilisant notre site, ils consentent à :
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>les conditions énoncées dans la présente politique de confidentialité et</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="2"><span>la collecte, l’utilisation et la conservation des données énumérées dans la présente politique.</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Données personnelles que nous collectons</span>
+	</p><div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;">Données collectées automatiquement</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Nous ne collectons aucune donnée automatiquement sur notre site.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;">Données recueillies de façon non automatique</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Nous pouvons également collecter les données suivantes lorsque vous effectuez certaines fonctions sur notre site&nbsp;:
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>Prénom et nom</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>Email</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>Numéro de téléphone</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="4"><span>Information de paiement</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Ces données peuvent être recueillies au moyen des méthodes suivantes&nbsp;:
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Enregistrement d'un compte &amp; Paiement
+	</p></div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Veuillez noter que nous ne collectons que les données qui nous aident à atteindre l’objectif énoncé dans cette politique de confidentialité. Nous ne recueillerons pas de données supplémentaires sans vous en informer au préalable.
+	</p></div></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Comment nous utilisons les données personnelles</span><br><br>Les données personnelles recueillies sur notre site seront utilisées uniquement aux fins précisées dans la présente politique ou indiquées sur les pages pertinentes de notre site. Nous n’utiliserons pas vos données au-delà de ce que nous divulguerons.
+	</p><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Les données que nous recueillons lorsque l’utilisateur exécute certaines fonctions peuvent être utilisées aux fins suivantes&nbsp;:
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:0.0pt;" value="1"><span>Fonctionnement</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol></div></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Avec qui nous partageons les données personnelles</span>
+	</p><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;">Employés</span><br>Nous pouvons divulguer à tout membre de notre organisation les données utilisateur dont il a raisonnablement besoin pour réaliser les objectifs énoncés dans la présente politique.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;">Tierces parties</span><br>Nous pouvons partager les données utilisateur avec les tiers suivants&nbsp;:
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:0.0pt;" value="1"><span>__________</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Nous pouvons partager les données utilisateur avec des tiers aux fins suivantes&nbsp;:
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:0.0pt;" value="1"><span>__________</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Les tiers ne seront pas en mesure d’accéder aux données des utilisateurs au-delà de ce qui est raisonnablement nécessaire pour atteindre l’objectif donné.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;">Autres divulgations</span><br>Nous nous engageons à ne pas vendre ou partager vos données avec des tiers, sauf dans les cas suivants&nbsp;:
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>si la loi l'exige</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>si elle est requise pour toute procédure judiciaire</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>pour prouver ou protéger nos droits légaux</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="4"><span>à des acheteurs ou des acheteurs potentiels de cette société dans le cas où nous cherchons à la vendre la société</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Si vous suivez des hyperliens de notre site vers un autre site, veuillez noter que nous ne sommes pas responsables et n’avons pas de contrôle sur leurs politiques et pratiques de confidentialité.
+	</p></div></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Combien de temps nous stockons les données personnelles</span><br><br>Les données des utilisateurs seront conservées pour une durée de :Les données sensibles ne sont gardés que pendant le temps d'exécution de la programmation automatique des requêtes<br><br>Nous veillerons à ce que les utilisateurs soient avisés si leurs données sont conservées plus longtemps que cette durée.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Comment nous protégeons vos données personnelles</span><br><br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br>___________________________________________________________<br><br><br>Alors que nous prenons toutes les précautions raisonnables pour nous assurer que nos données d’utilisateur sont sécurisées et que les utilisateurs sont protégés, il reste toujours du risque de préjudice. L’Internet en sa totalité peut être, parfois, peu sûr et donc nous sommes incapables de garantir la sécurité des données des utilisateurs au-delà de ce qui est raisonnablement pratique.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Mineurs</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Le RGPD précise que les personnes de moins de 15 ans sont considérées comme des mineurs aux fins de la collecte de données. Les mineurs doivent avoir le consentement d’un représentant légal pour que leurs données soient recueillies, traitées et utilisées.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Vos droits en tant qu’utilisateur</span>
+	</p><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">En vertu du RGPD, les utilisateurs ont les droits suivants en tant que personnes concernées :
+	</p>
+	<ol start="1" style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;list-style:lower-alpha;">
+		<li style="margin-bottom:18.0pt;" value="1"><span>droit d’accès</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="2"><span>droit de rectification</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="3"><span>droit à l’effacement</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="4"><span>droit de restreindre le traitement</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:18.0pt;" value="5"><span>droit à la portabilité des données</span><span style="color:#000000;"><br></span>
+		</li>
+		<li style="margin-bottom:0.0pt;" value="6"><span>droit d'objection</span><span style="color:#000000;"><br></span>
+		</li>
+	</ol>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Vous trouverez de plus amples informations sur ces droits au chapitre 3 (art 12-23) du RGPD.
+	</p></div></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Comment modifier, supprimer ou contester les données recueillies</span><br><br>Si vous souhaitez que vos renseignements soient supprimés ou modifiés d’une façon ou d’une autre, veuillez communiquer avec notre agent de protection de la vie privée ici :
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;margin-left:20.0pt;">Tester TEST<br>52 rue Test, 75015, Paris<br>Test@gmail.com<br>01 23 45 67 89
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Modifications</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Cette politique de confidentialité peut être modifiée à l’occasion afin de maintenir la conformité avec la loi et de tenir compte de tout changement à notre processus de collecte de données. Nous recommandons à nos utilisateurs de vérifier notre politique de temps à autre pour s’assurer qu’ils soient informés de toute mise à jour. Au besoin, nous pouvons informer les utilisateurs par courriel des changements apportés à cette politique.
+	</p></div><div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><span style="font-style:normal;font-weight:bold;text-decoration:underline;">Contact</span>
+	</p>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;">Si vous avez des questions à nous poser, n’hésitez pas à communiquer avec nous en utilisant ce qui suit&nbsp;:<br>06 78 79 73 78<br>service@feeder.com<br>52 rue TEST, 75015, Paris
+	</p></div>
+	<p style="line-height:18.0pt;font-size:12.0pt;line-height:18.0pt;font-family:Times New Roman;color:#000000;text-align:Left;"><br><span style="font-style:italic;font-weight:normal;">Date d’entrée en vigueur&nbsp;: </span>le ____________________
+	</p></div><div class="LDCopyright">
+						<p>© 2002-2022, DocumentsLégaux™ (Sequiter Inc.)</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    
+    
+    
+    
+
+            <span class="ipqMeasure"></span></div>
+            <!--ZOOMSTOP-->
+            
+    
+
+            <!--ZOOMRESTART-->
+            <!--ZOOMSTOP-->
+            <div id="footer" class="footer_slate_full">
+	<script type="text/javascript">var analyticsPageName = "PRIVACYQC Preview";</script><div class="footerSlate DocumentsLégaux">
+		<div class="desktopOnly">
+			<div class="footerSlate_container">
+				<div class="footerSlate_all">
+					<div class="footerSlate_left">
+						<div class="footerSlate_logo">
+							<a href="/" class="footerSlate_logo_link"></a>
+						</div><div class="footerv2_phone">
+							<a class="footerv2_phone_number" href="tel:" rel="nofollow"></a><br><span class="footerv2_phone_hours">Du lundi au vendredi de 8h à 19h HE</span>
+						</div><div class="footerv2_logo_symantec">
+							<span id="siteseal" style="display:none"><script async="" type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=fUIZzqc7h0HjwofsXL12uYs7k8BV40BMZcnK2oDfC3oMeBDrKnRABNFphbba"></script></span><img style="cursor:pointer;cursor:hand;" src="https://seal.godaddy.com/images/3/en/siteseal_gd_3_h_l_m.gif" onclick="verifySeal();" alt="SSL site seal - click to verify">
+						</div>
+					</div><div class="footerSlate_navigation">
+						<div class="footerSlate_navigation_left">
+							<a href="/">Accueil</a><a href="/conditionsgenerales/" onclick="showDialog('Conditions générales', this.href + '?dialog=true&amp;slate=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Conditions générales</a><a href="/aide/" target="_blank">Centre d'aide</a><a href="/cookies/" onclick="showDialog('Cookies', this.href + '?dialog=true&amp;slate=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Cookies</a>
+						</div><div class="footerSlate_navigation_left">
+							<a href="/a-propos">À propos</a><a href="/privee/" onclick="showDialog('Données personnelles', this.href + '?dialog=true&amp;slate=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Données personnelles</a><a href="/contracts/groups/">Nos documents</a><a href="/Mentions-legales" onclick="showDialog('Mentions légales', this.href + '?dialog=true&amp;slate=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Mentions légales</a>
+						</div><div class="footerSlate_right_logos">
+							<div class="footerSlate_navigation_countries">
+								<div class="select_country">
+									<a onclick="toggleFooterCountries();" class="countryNavLink footerCurrentCountry currentCountry flag_FR"><span class="footerCurrentCountryValue">France</span></a><div class="countryNav">
+										<a href="https://www.lawdepot.com/?loc=AU" class="countryNavLink flag_AU"><span>Australie</span></a><a href="https://www.lawdepot.ca/contracts/politique-de-confidentialite-d-un-site-web/?loc=CA" class="countryNavLink flag_CA"><span>Canada</span></a><a href="https://www.lawdepot.co.uk/" class="countryNavLink flag_GB"><span>Royaume-Uni</span></a><a href="https://www.lawdepot.com/?loc=US" class="countryNavLink flag_US"><span>États-Unis</span></a><a onclick="showInlineFooterDialog('Sélectionner votre pays', '/countrySelector.html', undefined, undefined, 'countrySelectorDialog', undefined, undefined, undefined, ($('.device-smartphone').length > 0 ? {effect:'slide', direction:'left', duration:500} : undefined));" class="countryNavLink">Autres pays</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div class="footerv2_disclaimer ">
+				<p>Votre utilisation de ce site est soumise à nos <a href="/conditionsgenerales/" onclick="showInlineFooterDialog('Conditions générales', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">conditions d'utilisation</a>, <a href="/mise-en-garde/" onclick="showInlineFooterDialog('Mise en garde', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">à notre clause de non-responsabilité</a> et <a href="/privee/" onclick="showInlineFooterDialog('Données personnelles', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">à notre politique de confidentialité</a>. DocumentsLégaux™ n'est pas un cabinet d'avocats et ne peut fournir de conseils juridiques. Nous fournissons des informations et des logiciels et vous êtes responsable de l'utilisation appropriée de ce matériel. © 2002-2022, DocumentsLégaux (Sequiter Inc.). Tous droits réservés. <span class="recaptchaDisclaimer" style="display: none;">Ce site est protégé par reCAPTCHA. Les <a href="https://policies.google.com/privacy" target="_blank">règles de confidentialité</a> et les <a href="https://policies.google.com/terms" target="_blank">conditions d'utilisation</a> de Google s'appliquent.</span></p>
+			</div>
+		</div><div class="mobileOnly footerStacked">
+			<div class="mobileFooterHelpContainer">
+				<a href="/aide/" target="_blank">Aide</a>
+			</div><div class="mobileFooterLinkContainer mobileFooterLogoContainer">
+				<div class="footerSlate_logo">
+					<a href="/" class="footerSlate_logo_link"></a>
+				</div>
+			</div><div class="footerv2_countries footerv2_vis footerv2_slateFull footerv2_slateFluid">
+				<a onclick="toggleFooterCountries();" class="currentCountry flag_FR"><span class="countryicon"></span><span>France</span><span class="arrowicon"></span></a><div class="countryNav">
+					<a href="https://www.lawdepot.com/?loc=AU" class="flag_AU"><span class="countryicon"></span><span>Australie</span></a><a href="https://www.lawdepot.ca/contracts/politique-de-confidentialite-d-un-site-web/?loc=CA" class="flag_CA"><span class="countryicon"></span><span>Canada</span></a><a href="https://www.lawdepot.co.uk/" class="flag_GB"><span class="countryicon"></span><span>Royaume-Uni</span></a><a href="https://www.lawdepot.com/?loc=US" class="flag_US"><span class="countryicon"></span><span>États-Unis</span></a><a onclick="showInlineFooterDialog('Sélectionner votre pays', '/countrySelector.html', undefined, undefined, 'countrySelectorDialog', undefined, undefined, undefined, ($('.device-smartphone').length > 0 ? {effect:'slide', direction:'left', duration:500} : undefined));">Autres pays</a>
+				</div>
+			</div><div class="mobileFooterLinkContainer">
+				<a href="/">Accueil</a><a href="/a-propos">À propos</a><a href="/contracts/groups/">Nos documents</a>
+			</div><div class="mobileFooterLinkContainer">
+				<a href="/Mentions-legales" onclick="showInlineFooterDialog('Mentions légales', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Mentions légales</a><a href="/conditionsgenerales/" onclick="showInlineFooterDialog('Conditions générales', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Conditions générales</a><a href="/privee/" onclick="showInlineFooterDialog('Données personnelles', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Données personnelles</a><a href="/cookies/" onclick="showInlineFooterDialog('Cookies', this.href + '?dialog=true&amp;slate=true&amp;fluid=true', 740, 500, 'plainDialog footerDialog', 0.5, true, true); return false;">Cookies</a><a href="/aide/">Nous contacter</a>
+			</div><div class="mobileFooterDisclaimer">
+				© 2002-2022, DocumentsLégaux (Sequiter Inc.). Tous droits réservés. <span class="recaptchaDisclaimer" style="display: none;">Ce site est protégé par reCAPTCHA. Les <a href="https://policies.google.com/privacy" target="_blank">règles de confidentialité</a> et les <a href="https://policies.google.com/terms" target="_blank">conditions d'utilisation</a> de Google s'appliquent.</span>
+			</div>
+		</div>
+	</div>
+</div>
+            <!--ZOOMRESTART-->
+        </div>
+    <span id="__Page"></span><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl02', 'aspnetForm', ['fctl00$ctl00$DialogContractPreviewPanel','','tctl00$ctl03SU',''], ['ctl00$DialogContractPreview',''], [], 90, 'ctl00');
+//]]>
+</script>
+<!-- 2019.1.115.45 --><div id="ctl00_ctl03SU" style="display: none;">
+	<span id="ctl00_ctl03" style="display:none;"></span>
+</div>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B4BCAC42">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var tempstring ="ver=yudox2&RBtermsPrivacy=generalConditions&websiteType=e-commerce&otherSiteType=&domainName=www.test.com&RBsiteOwnerDetails=group&ownerName=Test+test+SARL&siteContactNumber=06+78+79+73+78&sitecontactEmail=service%40feeder.com&siteContactAddress=52+rue+TEST%2c+75015%2c+Paris&YNautoCollect=no&YNnonAutoCollect=yes&YNname=true&YNage=false&YNdob=false&YNgender=false&YNemail=true&YNnumber=true&YNaddress=false&YNbanking=true&YNautofill=false&YNother2=false&numotherNonAutoData:Num=1&1:otherNonAutoData=&numCollectionMethods:Num=1&1:collectionMethods=Enregistrement+d%27un+compte+%26+Paiement&numNonAutoUse:Num=1&1:nonAutoUse=Fonctionnement&YNthirdParties=no&numThirdPartiesNames:Num=1&1:TPnames=&numThirdPartyUses:Num=1&1:TPUse=&RBretention=duration&autoDataDuration=Les+donn%c3%a9es+sensibles+ne+sont+gard%c3%a9s+que+pendant+le+temps+d%27ex%c3%a9cution+de+la+programmation+automatique+des+requ%c3%aates&securityDescription=&YNintlDataTransfers=no&internationalTransfer=&YNageMinimum=no&ageMinimum=0&YNchildContent=no&numchildConsent:Num=1&1:childConsent=&POname=Tester+TEST&contactNumber=01+23+45+67+89&contactEmail=Test%40gmail.com&contactAddress=52+rue+Test%2c+75015%2c+Paris&YNcookiePolicy=no&YNadditionalClauses=no&additionalClauses:Num=1&additionalClauses:1:Clause=&YNeffectDate=no&effectDate=2022-05-05&";
+function submittingfunc(moption) {
+getFormObject("hiddenform","sstring").value = tempstring+"&service="+moption+"&"+"contract=politique-de-confidentialite-d-un-site-web&"+"country=FR&";
+getForm("hiddenform").submit();
+}window.__TsmHiddenField = $get('ctl00_ctl02_TSM');qnh.RG(0, "QSwebsiteDetails", 0, "QGtermsPrivacy", function (){return false;});qnh.RG(0, "QSwebsiteDetails", 1, "QGwebsiteType", function (){return true;});qnh.RG(0, "QSwebsiteDetails", 2, "QGdomain", function (){return true;});qnh.RG(0, "QSwebsiteDetails", 3, "QGwebsiteDetails", function (){return true;});qnh.RG(0, "QSwebsiteDetails", 4, "siteContact", function (){return true;});qnh.RG(1, "QSdataCollection", 5, "QGYNautoData", function (){return true;});qnh.RG(1, "QSdataCollection", 6, "QGautoCollection", function (){return false;});qnh.RG(1, "QSdataCollection", 7, "QGYNnonAutoData", function (){return true;});qnh.RG(1, "QSdataCollection", 8, "QGnonAutoCollect", function (){return true;});qnh.RG(1, "QSdataCollection", 9, "QGdisclosureTP", function (){return true;});qnh.RG(1, "QSdataCollection", 10, "QGretention", function (){return true;});qnh.RG(1, "QSdataCollection", 11, "QGsecurity", function (){return true;});qnh.RG(1, "QSdataCollection", 12, "QGinternationalTransfers", function (){return true;});qnh.RG(1, "QSdataCollection", 13, "QGchildren", function (){return true;});qnh.RG(1, "QSdataCollection", 14, "QGprivacyOfficer", function (){return true;});qnh.RG(2, "QScookies", 15, "QGcookies", function (){return true;});qnh.RG(2, "QScookies", 16, "QGuseOfCookies", function (){return false;});qnh.RG(3, "QSfinalDetails", 17, "QGadditionalClauses", function (){return true;});qnh.RG(3, "QSfinalDetails", 18, "QGeffectiveDate", function (){return true;});//]]>
+</script>
+
+<script type="text/javascript">
+<!--
+function addSiteCalaystEvent() { }
+//-->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[{InitControlID : "ctl00_DialogContractPreview",UpdatedControls : [{ControlID:"ctl00_DialogContractPreview",PanelID:""}]}],"clientEvents":{OnRequestStart:"AjaxRequestStart",OnResponseEnd:"AjaxResponseEnd"},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$ctl03","updatePanelsRenderMode":0}, null, null, $get("ctl00_ctl03"));
+});
+//]]>
+</script>
+</form>
+    
+     <div id="hiddenstuff">
+	<form name="hiddenform" method="post" action="https://www.documentslegaux.fr/contracts/order-yudox/?webuser_data_id=141357532&amp;code=PRIVACYQC&amp;contract=politique-de-confidentialite-d-un-site-web&amp;loc=FRIF" class="hasSavedAnswersSpecific firstPage noFAQContent">
+		<input value="service=&amp;contract=politique-de-confidentialite-d-un-site-web&amp;country=FR" type="hidden" name="sstring"><input type="hidden" name="LicensePresent" value="false"><input type="hidden" name="pid" value=""><input type="hidden" name="adv" value="">
+	</form><form name="editWordsForm" method="post" action="/LawDepotEditor/index.aspx?code=PRIVACYQC" class="hasSavedAnswersSpecific firstPage noFAQContent">
+		<input type="hidden" name="editHTML" value="">
+	</form>
+</div>
+
+
+
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div id="divDialogOutsideFrame" style="display:none"><iframe id="ifChangeLog" name="ifChangeLog" src="" title="Mes documents" width="100%" height="100%" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="overflow:hidden"></iframe></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front" aria-describedby="divDialog" style="top: 717.61px; left: 415px; display: none;" aria-labelledby="ui-id-2"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">&nbsp;</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Fermer"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Fermer</button></div><div id="divDialog" class="ui-dialog-content ui-widget-content" style="display: block;">
+	<table id="tblLoader" class="slate-loader">
+		<tbody><tr>
+			<td><div><img src="//www.documentslegaux.fr/common/jquery-ui/css/LawDepot/images/ajax-loader.gif" alt="Loading ..." width="220" height="19"><br><span>Chargement...</span></div></td>
+		</tr>
+	</tbody></table><iframe id="ifMyDocuments" name="ifMyDocuments" title="My Documents">
+
+	</iframe>
+</div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="divTipDialog" style="display: none; position: absolute;" aria-labelledby="ui-id-3"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-3" class="ui-dialog-title">&nbsp;</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="divTipDialog" class="ui-dialog-content ui-widget-content" style="display: block;">
+	<p>Remarque: Vos réponses initials ont sauvegardé automatiquement si vous prévoyez votre document.<br>À cet écran, vous pouvez sauvegarder copies supplémentaires de vos réponses.</p><div>
+		<input type="checkbox" value="1" name="chkShow" id="chkShow"><label for="chkShow">Cliquez de cacher ce conseil au futur.</label>
+	</div><div class="tipDialogButtons">
+		<input type="button" value="Continuer" onclick="tipWindow_Callback(getObject('chkShow').checked);closeTipWindow(true);"><input type="button" value="Annuler" onclick="tipWindow_Callback(getObject('chkShow').checked);closeTipWindow(false);">
+	</div>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front fullScreenDialog" aria-describedby="ctl00_cPreviewDialog" style="display: none;" aria-labelledby="ui-id-4"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix"><span id="ui-id-4" class="ui-dialog-title">Aperçu du document</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="ctl00_cPreviewDialog" class="dialogInitial previewDialog unlicensed ui-dialog-content ui-widget-content" style="display: block;"><div class="RadAjaxPanel" id="ctl00_ctl00_DialogContractPreviewPanel" style="display: block;">
+	<div id="ctl00_DialogContractPreview" class="  contractPreviewWrapper   ">
+		<div class="contractPreview">
+			<div class="mobileOnly previewFormatWarning">
+				Cet aperçu du document est formaté pour s'adapter à votre appareil mobile. Le formatage changera si le document est imprimé ou affiché sur ordinateur.
+			</div><div class="contract DCS">
+				<div class="outputVersion1">
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div></div><div class="hiddendiv common"></div></body></html>
